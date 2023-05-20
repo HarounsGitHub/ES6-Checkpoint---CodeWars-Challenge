@@ -13,7 +13,7 @@ Each category contains a list of topics and corresponding JavaScript files that 
 
 ### Algorithms
 
--   [Algorithm.js](https://github.com/HarounsGitHub/ES6-Checkpoint---CodeWars-Challenge/blob/main/Algorithm.js)
+-   [Algorithms.js](https://github.com/HarounsGitHub/ES6-Checkpoint---CodeWars-Challenge/blob/main/Algorithms.js)
 
 ### Data Types
 
